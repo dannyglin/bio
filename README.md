@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannyglin
 - 👀 I’m interested in Front-end Developing
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 📫 How to reach me @dannnylin@gmail.com
 
 <!---
